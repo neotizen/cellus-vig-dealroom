@@ -1,0 +1,11 @@
+=== Excel to PDF Summary ===
+timestamp: 2026-03-27 16:09:54
+root: G:\.shortcut-targets-by-id\1Z9P2aDXIMmXh_v8lMEAVfxxpmv297n_i\CELLUS
+output_dir: same as source
+delete_source_excel: yes
+total_found: 12
+success_count: 12
+deleted_count: 12
+skip_count: 0
+fail_count: 0
+failure_log: none
